@@ -12,6 +12,8 @@ O projeto foi desenvolvido em Python utilizando bibliotecas para manipulação d
 
 Os dados utilizados foram obtidos no **Kaggle** e contêm informações sobre diferentes aspectos da saúde e do estilo de vida dos estudantes.
 
+(https://www.kaggle.com/competitions/playground-series-s6e7/data)
+
 As principais variáveis utilizadas foram:
 
 * Health Condition (variável alvo)
