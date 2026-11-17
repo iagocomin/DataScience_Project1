@@ -80,7 +80,7 @@ Etapas realizadas:
 
 ## 📊 Avaliação
 
-A avaliação do modelo foi realizada utilizando a métrica **Accuracy**, permitindo medir o percentual de classificações corretas obtidas pelo algoritmo.
+A avaliação do modelo foi realizada utilizando as métricas de Accuracy (para medir o percentual de classificações corretas), Precision (para avaliar a proporção de previsões corretas da classe positiva), Recall (para verificar a capacidade do modelo de capturar todas as instâncias da classe positiva) e F1-score (para obter a média harmônica entre Precision e Recall).
 
 Além disso, foi gerado o arquivo de submissão para comparação dos resultados na plataforma Kaggle.
 
