@@ -67,7 +67,7 @@ Também foram analisadas características do conjunto de dados para verificar po
 
 ## 🤖 Modelo de Machine Learning
 
-O algoritmo utilizado foi o **Gaussian Naive Bayes**, implementado através da biblioteca **Scikit-Learn**.
+O algoritmo utilizado foi a **Árvore de Decisão** e **Gaussian Naive Bayes**, implementado através da biblioteca **Scikit-Learn**.
 
 Etapas realizadas:
 
