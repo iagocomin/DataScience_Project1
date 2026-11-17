@@ -74,7 +74,7 @@ Etapas realizadas:
 * Treinamento do modelo;
 * Predição dos dados de teste;
 * Avaliação da acurácia no conjunto de treinamento;
-* Geração do arquivo `submission.csv` para submissão no Kaggle.
+* Geração do arquivo para submissão no Kaggle.
 
 ---
 
